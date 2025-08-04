@@ -5,7 +5,7 @@ This repo contains resources, summaries, and highlights from the very first day 
 
 📅 Date:
 
-30th [Insert Month & Year]
+30th july, 2025
 
 📍 Venue:
 
@@ -23,12 +23,6 @@ Guru Nanak Dev Engineering College (GNDEC), Ludhiana
 	•	Motivational Sessions / Guest Speaker (if any)
 
 ⸻
-
-📁 Contents of this Repo:
-	•	schedule_day1.pdf – Detailed timetable
-	•	highlights.md – Summary of sessions
-	•	photos/ – Selected images from Day 1
-	•	feedback_form/ – Optional student feedback (if applicable)
 
 ⸻
 
